@@ -1,5 +1,5 @@
 # ELECTRICITY-CONSUMPTION-PRICES-DASHBOARD
-Project Overview
+Project Overview:
 This project analyzes electricity consumption and pricing data across various countries, focusing on trends from 2013 to 2019. The insights gathered highlight disparities in electricity prices, consumption patterns, and the growth of demand in different regions.
 
 Key Insights
