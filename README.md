@@ -14,7 +14,8 @@ Lowest Electricity Prices:
 Afghanistan 
 Angola 
 Benin 
-3. Relationship Between Price and Consumption
+
+3. Relationship Between Price and Consumption:
 A negative correlation exists between electricity prices and per capita consumption. Countries with higher prices, such as Venezuela and Liberia, tend to have lower consumption rates, while countries with the lowest prices like Afghanistan and Angola exhibit higher consumption levels despite their economic challenges.
 
 4. Biggest Growth in Demand Over the Last 10 Years
