@@ -7,15 +7,16 @@ Key Insights
 Highest Electricity Prices:
 Venezuela 
 Solomon Islands
-Liberia
+Liberia.
+
 Lowest Electricity Prices:
 Afghanistan 
 Angola 
 Benin 
-2. Relationship Between Price and Consumption
+3. Relationship Between Price and Consumption
 A negative correlation exists between electricity prices and per capita consumption. Countries with higher prices, such as Venezuela and Liberia, tend to have lower consumption rates, while countries with the lowest prices like Afghanistan and Angola exhibit higher consumption levels despite their economic challenges.
 
-3. Biggest Growth in Demand Over the Last 10 Years
+4. Biggest Growth in Demand Over the Last 10 Years
 Countries experiencing significant increases in electricity demand include:
 
 India: Increased from 654.38 kWh per capita in 2013 to 863.01 kWh in 2019.
