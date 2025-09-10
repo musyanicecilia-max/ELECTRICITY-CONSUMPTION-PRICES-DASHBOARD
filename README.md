@@ -4,6 +4,7 @@ This project analyzes electricity consumption and pricing data across various co
 
 Key Insights
 1. Highest vs. Lowest Electricity Prices
+   
 Highest Electricity Prices:
 Venezuela 
 Solomon Islands
